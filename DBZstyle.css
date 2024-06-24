@@ -1,0 +1,17 @@
+body {
+    background-color: orange;
+}
+
+.Dragon {
+    color: yellow;
+}
+.Ball {
+    color: orangered;
+}
+h1 {
+    text-align: center;
+}
+header {
+    display: flexbox;
+    flex-direction: row;
+}
